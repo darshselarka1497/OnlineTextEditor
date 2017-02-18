@@ -1,1 +1,1 @@
-Onlime Text Editor for html5
+Online Text Editor for html5
